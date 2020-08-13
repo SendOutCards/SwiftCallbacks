@@ -6,6 +6,7 @@
 //  Copyright © 2016 Brad Hilton. All rights reserved.
 //
 
+#if canImport(UIKit)
 import UIKit
 
 class Target<T> : NSObject {
@@ -34,3 +35,4 @@ class Target<T> : NSObject {
     }
     
 }
+#endif

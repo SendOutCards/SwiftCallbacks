@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AssociatedValues",
+        "repositoryURL": "https://github.com/paulofaria/AssociatedValues.git",
+        "state": {
+          "branch": null,
+          "revision": "2067609060cb3d587727edd1eae432946a6b2046",
+          "version": "6.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
